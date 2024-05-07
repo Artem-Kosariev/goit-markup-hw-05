@@ -627,7 +627,9 @@ ol {
   margin-bottom: 16px;
   outline: transparent;
 }
-
+.comments-text {
+  margin-bottom: 16px;
+}
 .review-form-input-wraper {
   position: relative;
   margin-bottom: 16px;
