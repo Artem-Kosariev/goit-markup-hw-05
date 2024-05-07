@@ -675,6 +675,7 @@ ol {
 .review-form-checkbox {
   margin-right: 8px;
 }
+
 .check {
   display: inline-flex;
   align-items: center;
@@ -704,7 +705,6 @@ ol {
   font-size: 12px;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.04em;
-  display: inline-flex;
   align-items: center;
 }
 .privace-policy {
